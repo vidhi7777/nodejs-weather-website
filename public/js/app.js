@@ -1,7 +1,3 @@
-
-
-
-
 //querySelector returns the javascript form of "form"
 //selecting by elements name
 const weatherForm = document.querySelector('form')
